@@ -3,8 +3,8 @@
 const userName = 'Mario';
 console.log(userName);
 // Dichiara la funzione qui.
-function saluta(userName) {
-    return `Ciao ${userName}`;
+function saluta(name) {
+    return `Ciao ${name}`;
 }
 
 // Invoca la funzione qui e stampa il risultato in console
